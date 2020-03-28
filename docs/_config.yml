@@ -6,7 +6,7 @@ description: 'This page describes how to reproduce/replicate
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-paper_link: /tree/master/docs/assets/docs/paper.pdf
+paper_link: /blob/master/docs/assets/docs/paper.pdf
 data_link: 
 institutions: EURECOM
 authors: Giovanni Camurati
