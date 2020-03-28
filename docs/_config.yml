@@ -1,0 +1,13 @@
+title: MyAwesomeProject
+logo: #/assets/figures/logo.png
+description: 'This page describes how to reproduce/replicate
+              the results of
+              <br><strong><em>MyAwesomeProject</em></strong>'
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+paper_link: /tree/master/docs/assets/docs/paper.pdf
+data_link: 
+institutions: EURECOM
+authors: Giovanni Camurati
+owner_website: https://giocamurati.github.io/
