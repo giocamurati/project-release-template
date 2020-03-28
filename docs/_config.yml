@@ -5,7 +5,7 @@ description: 'This page describes how to reproduce/replicate
               <br><strong><em>MyAwesomeProject</em></strong>'
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 paper_link: /tree/master/docs/assets/docs/paper.pdf
 data_link: 
 institutions: EURECOM
