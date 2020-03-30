@@ -38,27 +38,29 @@
         </ul>
         {% endif %}
 
-        <nav>
-          <ul class="index">
-            <li><a href="{{ site.base_url }}#Intro"><strong>Intro</strong></a></li>
-            <li><a href="{{ site.base_url }}#Datasets"><strong>Datasets</strong></a></li>
-              <!--<ul class="index">-->
-                <!--<li><a href="{{ site.base_url }}#A"><strong>A</strong></a></li>-->
-                <!--<li><a href="{{ site.base_url }}#B"><strong>B</strong></a></li>-->
-              <!--</ul>-->
-            <li><a href="{{ site.base_url }}#Code"><strong>Code</strong></a></li>
-            <li><a href="{{ site.base_url }}#Reproduce"><strong>Reproduce</strong></a></li>
-              <ul class="index">
-                <li><a href="{{ site.base_url }}#Hardware"><strong>Hardware</strong></a></li>
-                <li><a href="{{ site.base_url }}#Install"><strong>Install</strong></a></li>
-                <li><a href="{{ site.base_url }}#ExperimentA"><strong>Experiment A</strong></a></li>
-                <li><a href="{{ site.base_url }}#ExperimentB"><strong>Experiment B</strong></a></li>
-              </ul>
-            <li><a href="{{ site.base_url
-                    }}#Acknowledgments"><strong>Acknowledgments</strong></a></li>
-            <li><a href="{{ site.base_url }}#License"><strong>License</strong></a></li>
-          </ul>
-        </nav>
+        <div class="index">
+          <nav>
+            <ul>
+              <li><a href="{{ site.base_url }}#Intro"><strong>Intro</strong></a></li>
+              <li><a href="{{ site.base_url }}#Datasets"><strong>Datasets</strong></a></li>
+                <!--<ul class="index">-->
+                  <!--<li><a href="{{ site.base_url }}#A"><strong>A</strong></a></li>-->
+                  <!--<li><a href="{{ site.base_url }}#B"><strong>B</strong></a></li>-->
+                <!--</ul>-->
+              <li><a href="{{ site.base_url }}#Code"><strong>Code</strong></a></li>
+              <li><a href="{{ site.base_url }}#Reproduce"><strong>Reproduce</strong></a></li>
+                <ul>
+                  <li><a href="{{ site.base_url }}#Hardware"><strong>Hardware</strong></a></li>
+                  <li><a href="{{ site.base_url }}#Install"><strong>Install</strong></a></li>
+                  <li><a href="{{ site.base_url }}#ExperimentA"><strong>Experiment A</strong></a></li>
+                  <li><a href="{{ site.base_url }}#ExperimentB"><strong>Experiment B</strong></a></li>
+                </ul>
+              <li><a href="{{ site.base_url
+                      }}#Acknowledgments"><strong>Acknowledgments</strong></a></li>
+              <li><a href="{{ site.base_url }}#License"><strong>License</strong></a></li>
+            </ul>
+          </nav>
+        </div>
 
       </header>
       <section>
