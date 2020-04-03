@@ -92,6 +92,8 @@ Do this to run obtain these results.
 
 # <a name="Acknowledgments"></a>Acknowledgments
 
+[<em><small>Back to top</small></em>]({{ "/" | absolute_url }})
+
 # <a name="License"></a>License
 
 Copyright (C) {{ site.institutions }}
